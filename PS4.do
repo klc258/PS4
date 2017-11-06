@@ -35,7 +35,7 @@ Does inaccces to healthy food impact behavior and mental health?
 Does increased green space impact poverty and mental health?
 More specifically, does tree cover impact air quality and public health related to air quality ie: asthma rates */ 
 
-
+ 
 
 local worDir "C:\Users\kathr\Desktop\CLASS2"
 
